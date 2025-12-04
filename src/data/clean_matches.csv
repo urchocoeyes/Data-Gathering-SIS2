@@ -1,0 +1,151 @@
+match_id,date,date_parsed,home_team,away_team,home_goals,away_goals,score,total_goals,goal_difference,result,competition,scraped_at
+MATCH_0001,1/12/2023,2023-12-01,Arsenal,Chelsea,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0002,2/12/2023,2023-12-02,Chelsea,Manchester United,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0003,3/12/2023,2023-12-03,Manchester United,Liverpool,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0004,4/12/2023,2023-12-04,Liverpool,Manchester City,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0005,5/12/2023,2023-12-05,Manchester City,Tottenham,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0006,6/12/2023,2023-12-06,Tottenham,Newcastle,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0007,7/12/2023,2023-12-07,Newcastle,Aston Villa,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0008,8/12/2023,2023-12-08,Aston Villa,West Ham,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0009,9/12/2023,2023-12-09,West Ham,Everton,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0010,10/12/2023,2023-12-10,Everton,Arsenal,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0011,11/12/2023,2023-12-11,Arsenal,Chelsea,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0012,12/12/2023,2023-12-12,Chelsea,Manchester United,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0013,13/12/2023,2023-12-13,Manchester United,Liverpool,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0014,14/12/2023,2023-12-14,Liverpool,Manchester City,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0015,15/12/2023,2023-12-15,Manchester City,Tottenham,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0016,16/12/2023,2023-12-16,Tottenham,Newcastle,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0017,17/12/2023,2023-12-17,Newcastle,Aston Villa,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0018,18/12/2023,2023-12-18,Aston Villa,West Ham,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0019,19/12/2023,2023-12-19,West Ham,Everton,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0020,20/12/2023,2023-12-20,Everton,Arsenal,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0021,21/12/2023,2023-12-21,Arsenal,Chelsea,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0022,22/12/2023,2023-12-22,Chelsea,Manchester United,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0023,23/12/2023,2023-12-23,Manchester United,Liverpool,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0024,24/12/2023,2023-12-24,Liverpool,Manchester City,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0025,25/12/2023,2023-12-25,Manchester City,Tottenham,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0026,26/12/2023,2023-12-26,Tottenham,Newcastle,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0027,27/12/2023,2023-12-27,Newcastle,Aston Villa,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0028,28/12/2023,2023-12-28,Aston Villa,West Ham,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0029,29/12/2023,2023-12-29,West Ham,Everton,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0030,30/12/2023,2023-12-30,Everton,Arsenal,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0031,1/12/2023,2023-12-01,Arsenal,Chelsea,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0032,2/12/2023,2023-12-02,Chelsea,Manchester United,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0033,3/12/2023,2023-12-03,Manchester United,Liverpool,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0034,4/12/2023,2023-12-04,Liverpool,Manchester City,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0035,5/12/2023,2023-12-05,Manchester City,Tottenham,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0036,6/12/2023,2023-12-06,Tottenham,Newcastle,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0037,7/12/2023,2023-12-07,Newcastle,Aston Villa,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0038,8/12/2023,2023-12-08,Aston Villa,West Ham,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0039,9/12/2023,2023-12-09,West Ham,Everton,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0040,10/12/2023,2023-12-10,Everton,Arsenal,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0041,11/12/2023,2023-12-11,Arsenal,Chelsea,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0042,12/12/2023,2023-12-12,Chelsea,Manchester United,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0043,13/12/2023,2023-12-13,Manchester United,Liverpool,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0044,14/12/2023,2023-12-14,Liverpool,Manchester City,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0045,15/12/2023,2023-12-15,Manchester City,Tottenham,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0046,16/12/2023,2023-12-16,Tottenham,Newcastle,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0047,17/12/2023,2023-12-17,Newcastle,Aston Villa,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0048,18/12/2023,2023-12-18,Aston Villa,West Ham,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0049,19/12/2023,2023-12-19,West Ham,Everton,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0050,20/12/2023,2023-12-20,Everton,Arsenal,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0051,21/12/2023,2023-12-21,Arsenal,Chelsea,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0052,22/12/2023,2023-12-22,Chelsea,Manchester United,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0053,23/12/2023,2023-12-23,Manchester United,Liverpool,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0054,24/12/2023,2023-12-24,Liverpool,Manchester City,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0055,25/12/2023,2023-12-25,Manchester City,Tottenham,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0056,26/12/2023,2023-12-26,Tottenham,Newcastle,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0057,27/12/2023,2023-12-27,Newcastle,Aston Villa,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0058,28/12/2023,2023-12-28,Aston Villa,West Ham,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0059,29/12/2023,2023-12-29,West Ham,Everton,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0060,30/12/2023,2023-12-30,Everton,Arsenal,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0061,1/12/2023,2023-12-01,Arsenal,Chelsea,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0062,2/12/2023,2023-12-02,Chelsea,Manchester United,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0063,3/12/2023,2023-12-03,Manchester United,Liverpool,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0064,4/12/2023,2023-12-04,Liverpool,Manchester City,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0065,5/12/2023,2023-12-05,Manchester City,Tottenham,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0066,6/12/2023,2023-12-06,Tottenham,Newcastle,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0067,7/12/2023,2023-12-07,Newcastle,Aston Villa,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0068,8/12/2023,2023-12-08,Aston Villa,West Ham,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0069,9/12/2023,2023-12-09,West Ham,Everton,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0070,10/12/2023,2023-12-10,Everton,Arsenal,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0071,11/12/2023,2023-12-11,Arsenal,Chelsea,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0072,12/12/2023,2023-12-12,Chelsea,Manchester United,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0073,13/12/2023,2023-12-13,Manchester United,Liverpool,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0074,14/12/2023,2023-12-14,Liverpool,Manchester City,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0075,15/12/2023,2023-12-15,Manchester City,Tottenham,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0076,16/12/2023,2023-12-16,Tottenham,Newcastle,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0077,17/12/2023,2023-12-17,Newcastle,Aston Villa,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0078,18/12/2023,2023-12-18,Aston Villa,West Ham,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0079,19/12/2023,2023-12-19,West Ham,Everton,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0080,20/12/2023,2023-12-20,Everton,Arsenal,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0081,21/12/2023,2023-12-21,Arsenal,Chelsea,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0082,22/12/2023,2023-12-22,Chelsea,Manchester United,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0083,23/12/2023,2023-12-23,Manchester United,Liverpool,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0084,24/12/2023,2023-12-24,Liverpool,Manchester City,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0085,25/12/2023,2023-12-25,Manchester City,Tottenham,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0086,26/12/2023,2023-12-26,Tottenham,Newcastle,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0087,27/12/2023,2023-12-27,Newcastle,Aston Villa,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0088,28/12/2023,2023-12-28,Aston Villa,West Ham,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0089,29/12/2023,2023-12-29,West Ham,Everton,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0090,30/12/2023,2023-12-30,Everton,Arsenal,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0091,1/12/2023,2023-12-01,Arsenal,Chelsea,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0092,2/12/2023,2023-12-02,Chelsea,Manchester United,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0093,3/12/2023,2023-12-03,Manchester United,Liverpool,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0094,4/12/2023,2023-12-04,Liverpool,Manchester City,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0095,5/12/2023,2023-12-05,Manchester City,Tottenham,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0096,6/12/2023,2023-12-06,Tottenham,Newcastle,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0097,7/12/2023,2023-12-07,Newcastle,Aston Villa,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0098,8/12/2023,2023-12-08,Aston Villa,West Ham,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0099,9/12/2023,2023-12-09,West Ham,Everton,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0100,10/12/2023,2023-12-10,Everton,Arsenal,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0101,11/12/2023,2023-12-11,Arsenal,Chelsea,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0102,12/12/2023,2023-12-12,Chelsea,Manchester United,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0103,13/12/2023,2023-12-13,Manchester United,Liverpool,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0104,14/12/2023,2023-12-14,Liverpool,Manchester City,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0105,15/12/2023,2023-12-15,Manchester City,Tottenham,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0106,16/12/2023,2023-12-16,Tottenham,Newcastle,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0107,17/12/2023,2023-12-17,Newcastle,Aston Villa,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0108,18/12/2023,2023-12-18,Aston Villa,West Ham,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0109,19/12/2023,2023-12-19,West Ham,Everton,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0110,20/12/2023,2023-12-20,Everton,Arsenal,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0111,21/12/2023,2023-12-21,Arsenal,Chelsea,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0112,22/12/2023,2023-12-22,Chelsea,Manchester United,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0113,23/12/2023,2023-12-23,Manchester United,Liverpool,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0114,24/12/2023,2023-12-24,Liverpool,Manchester City,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0115,25/12/2023,2023-12-25,Manchester City,Tottenham,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0116,26/12/2023,2023-12-26,Tottenham,Newcastle,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0117,27/12/2023,2023-12-27,Newcastle,Aston Villa,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0118,28/12/2023,2023-12-28,Aston Villa,West Ham,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0119,29/12/2023,2023-12-29,West Ham,Everton,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0120,30/12/2023,2023-12-30,Everton,Arsenal,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0121,1/12/2023,2023-12-01,Arsenal,Chelsea,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0122,2/12/2023,2023-12-02,Chelsea,Manchester United,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0123,3/12/2023,2023-12-03,Manchester United,Liverpool,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0124,4/12/2023,2023-12-04,Liverpool,Manchester City,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0125,5/12/2023,2023-12-05,Manchester City,Tottenham,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0126,6/12/2023,2023-12-06,Tottenham,Newcastle,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0127,7/12/2023,2023-12-07,Newcastle,Aston Villa,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0128,8/12/2023,2023-12-08,Aston Villa,West Ham,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0129,9/12/2023,2023-12-09,West Ham,Everton,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0130,10/12/2023,2023-12-10,Everton,Arsenal,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0131,11/12/2023,2023-12-11,Arsenal,Chelsea,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0132,12/12/2023,2023-12-12,Chelsea,Manchester United,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0133,13/12/2023,2023-12-13,Manchester United,Liverpool,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0134,14/12/2023,2023-12-14,Liverpool,Manchester City,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0135,15/12/2023,2023-12-15,Manchester City,Tottenham,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0136,16/12/2023,2023-12-16,Tottenham,Newcastle,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0137,17/12/2023,2023-12-17,Newcastle,Aston Villa,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0138,18/12/2023,2023-12-18,Aston Villa,West Ham,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0139,19/12/2023,2023-12-19,West Ham,Everton,2,1,2-1,3,1,H,Premier League,2025-12-04 21:01:38
+MATCH_0140,20/12/2023,2023-12-20,Everton,Arsenal,3,2,3-2,5,1,H,FA Cup,2025-12-04 21:01:38
+MATCH_0141,21/12/2023,2023-12-21,Arsenal,Chelsea,0,0,0-0,0,0,D,Carabao Cup,2025-12-04 21:01:38
+MATCH_0142,22/12/2023,2023-12-22,Chelsea,Manchester United,1,1,1-1,2,0,D,Premier League,2025-12-04 21:01:38
+MATCH_0143,23/12/2023,2023-12-23,Manchester United,Liverpool,2,2,2-2,4,0,D,FA Cup,2025-12-04 21:01:38
+MATCH_0144,24/12/2023,2023-12-24,Liverpool,Manchester City,3,0,3-0,3,3,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0145,25/12/2023,2023-12-25,Manchester City,Tottenham,0,1,0-1,1,-1,A,Premier League,2025-12-04 21:01:38
+MATCH_0146,26/12/2023,2023-12-26,Tottenham,Newcastle,1,2,1-2,3,-1,A,FA Cup,2025-12-04 21:01:38
+MATCH_0147,27/12/2023,2023-12-27,Newcastle,Aston Villa,2,0,2-0,2,2,H,Carabao Cup,2025-12-04 21:01:38
+MATCH_0148,28/12/2023,2023-12-28,Aston Villa,West Ham,3,1,3-1,4,2,H,Premier League,2025-12-04 21:01:38
+MATCH_0149,29/12/2023,2023-12-29,West Ham,Everton,0,2,0-2,2,-2,A,FA Cup,2025-12-04 21:01:38
+MATCH_0150,30/12/2023,2023-12-30,Everton,Arsenal,1,0,1-0,1,1,H,Carabao Cup,2025-12-04 21:01:38

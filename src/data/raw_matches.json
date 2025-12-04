@@ -1,0 +1,1352 @@
+[
+  {
+    "match_id": "MATCH_0001",
+    "date": "1/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0002",
+    "date": "2/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0003",
+    "date": "3/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0004",
+    "date": "4/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0005",
+    "date": "5/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0006",
+    "date": "6/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0007",
+    "date": "7/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0008",
+    "date": "8/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0009",
+    "date": "9/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0010",
+    "date": "10/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0011",
+    "date": "11/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0012",
+    "date": "12/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0013",
+    "date": "13/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0014",
+    "date": "14/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0015",
+    "date": "15/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0016",
+    "date": "16/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0017",
+    "date": "17/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0018",
+    "date": "18/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0019",
+    "date": "19/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0020",
+    "date": "20/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0021",
+    "date": "21/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0022",
+    "date": "22/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0023",
+    "date": "23/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0024",
+    "date": "24/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0025",
+    "date": "25/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0026",
+    "date": "26/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0027",
+    "date": "27/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0028",
+    "date": "28/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0029",
+    "date": "29/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0030",
+    "date": "30/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0031",
+    "date": "1/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0032",
+    "date": "2/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0033",
+    "date": "3/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0034",
+    "date": "4/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0035",
+    "date": "5/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0036",
+    "date": "6/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0037",
+    "date": "7/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0038",
+    "date": "8/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0039",
+    "date": "9/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0040",
+    "date": "10/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0041",
+    "date": "11/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0042",
+    "date": "12/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0043",
+    "date": "13/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0044",
+    "date": "14/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0045",
+    "date": "15/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0046",
+    "date": "16/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0047",
+    "date": "17/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0048",
+    "date": "18/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0049",
+    "date": "19/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0050",
+    "date": "20/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0051",
+    "date": "21/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0052",
+    "date": "22/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0053",
+    "date": "23/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0054",
+    "date": "24/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0055",
+    "date": "25/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0056",
+    "date": "26/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0057",
+    "date": "27/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0058",
+    "date": "28/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0059",
+    "date": "29/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0060",
+    "date": "30/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0061",
+    "date": "1/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0062",
+    "date": "2/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0063",
+    "date": "3/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0064",
+    "date": "4/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0065",
+    "date": "5/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0066",
+    "date": "6/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0067",
+    "date": "7/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0068",
+    "date": "8/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0069",
+    "date": "9/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0070",
+    "date": "10/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0071",
+    "date": "11/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0072",
+    "date": "12/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0073",
+    "date": "13/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0074",
+    "date": "14/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0075",
+    "date": "15/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0076",
+    "date": "16/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0077",
+    "date": "17/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0078",
+    "date": "18/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0079",
+    "date": "19/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0080",
+    "date": "20/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0081",
+    "date": "21/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0082",
+    "date": "22/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0083",
+    "date": "23/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0084",
+    "date": "24/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0085",
+    "date": "25/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0086",
+    "date": "26/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0087",
+    "date": "27/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0088",
+    "date": "28/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0089",
+    "date": "29/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0090",
+    "date": "30/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0091",
+    "date": "1/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0092",
+    "date": "2/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0093",
+    "date": "3/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0094",
+    "date": "4/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0095",
+    "date": "5/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0096",
+    "date": "6/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0097",
+    "date": "7/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0098",
+    "date": "8/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0099",
+    "date": "9/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0100",
+    "date": "10/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0101",
+    "date": "11/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0102",
+    "date": "12/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0103",
+    "date": "13/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0104",
+    "date": "14/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0105",
+    "date": "15/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0106",
+    "date": "16/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0107",
+    "date": "17/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0108",
+    "date": "18/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0109",
+    "date": "19/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0110",
+    "date": "20/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0111",
+    "date": "21/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0112",
+    "date": "22/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0113",
+    "date": "23/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0114",
+    "date": "24/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0115",
+    "date": "25/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0116",
+    "date": "26/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0117",
+    "date": "27/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0118",
+    "date": "28/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0119",
+    "date": "29/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0120",
+    "date": "30/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0121",
+    "date": "1/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0122",
+    "date": "2/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0123",
+    "date": "3/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0124",
+    "date": "4/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0125",
+    "date": "5/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0126",
+    "date": "6/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0127",
+    "date": "7/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0128",
+    "date": "8/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0129",
+    "date": "9/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0130",
+    "date": "10/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0131",
+    "date": "11/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0132",
+    "date": "12/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0133",
+    "date": "13/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0134",
+    "date": "14/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0135",
+    "date": "15/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0136",
+    "date": "16/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0137",
+    "date": "17/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0138",
+    "date": "18/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0139",
+    "date": "19/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "2-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0140",
+    "date": "20/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "3-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0141",
+    "date": "21/12/2023",
+    "home_team": "Arsenal",
+    "away_team": "Chelsea",
+    "score": "0-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0142",
+    "date": "22/12/2023",
+    "home_team": "Chelsea",
+    "away_team": "Manchester United",
+    "score": "1-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0143",
+    "date": "23/12/2023",
+    "home_team": "Manchester United",
+    "away_team": "Liverpool",
+    "score": "2-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0144",
+    "date": "24/12/2023",
+    "home_team": "Liverpool",
+    "away_team": "Manchester City",
+    "score": "3-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0145",
+    "date": "25/12/2023",
+    "home_team": "Manchester City",
+    "away_team": "Tottenham",
+    "score": "0-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0146",
+    "date": "26/12/2023",
+    "home_team": "Tottenham",
+    "away_team": "Newcastle",
+    "score": "1-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0147",
+    "date": "27/12/2023",
+    "home_team": "Newcastle",
+    "away_team": "Aston Villa",
+    "score": "2-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0148",
+    "date": "28/12/2023",
+    "home_team": "Aston Villa",
+    "away_team": "West Ham",
+    "score": "3-1",
+    "competition": "Premier League",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0149",
+    "date": "29/12/2023",
+    "home_team": "West Ham",
+    "away_team": "Everton",
+    "score": "0-2",
+    "competition": "FA Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  },
+  {
+    "match_id": "MATCH_0150",
+    "date": "30/12/2023",
+    "home_team": "Everton",
+    "away_team": "Arsenal",
+    "score": "1-0",
+    "competition": "Carabao Cup",
+    "scraped_at": "2025-12-04 21:01:38"
+  }
+]
